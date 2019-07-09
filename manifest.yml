@@ -4,5 +4,5 @@ applications:
     routes:
       - route: krel.apps.evans.pal.pivotal.io
     env:
-      MESSAGE: Hello from the review environment.
+      MESSAGE: Hello from the review environmentcd
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
